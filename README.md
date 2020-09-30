@@ -1,6 +1,7 @@
 # lab_3
 1. Step_Decay
 
+
     def scheduler(epoch, lr):
       if epoch==40 or epoch==70:
         return lr*0.1
