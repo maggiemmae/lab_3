@@ -8,7 +8,7 @@
         return lr
         
 ![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_accuracy%20step.svg)
-![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_loss%20step.svg)
+![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_loss%20step.svg)
 
 2. Exponentional Decay
 
@@ -19,4 +19,4 @@
         return lr * tf.math.exp(-0.1)
         
 ![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_accuracy%20exp.svg)
-![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_loss%20exp.svg)
+![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_loss%20exp.svg)
