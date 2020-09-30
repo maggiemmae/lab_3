@@ -32,3 +32,7 @@
            return ((b - a) / 10) * (epoch - 1)
        else:
            return initial_lrate * tf.math.exp(-0.1) 
+           
+![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_accuracy%20warm.svg)
+![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_loss%20warm.svg)
+
