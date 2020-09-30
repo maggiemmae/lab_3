@@ -19,5 +19,5 @@
       else:
         return lr * tf.math.exp(-0.1)
         
-![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_accuracy%20exp.svg)
-![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_loss%20exp.svg)
+![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_categorical_accuracy%20exponential.svg)
+![Image alt](https://github.com/maggiemmae/lab_3/blob/master/epoch_loss%20exponential.svg)
